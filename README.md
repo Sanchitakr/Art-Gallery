@@ -6,3 +6,13 @@
 - [React-redux thunk](https://www.npmjs.com/package/redux-thunk) to further carry out asynchronous calls as reducers.
 - To maintain routes for every action calls, [express.js](https://expressjs.com/) is utilised .
 - Entire application uses [material UI core](https://material-ui.com/) for beautifying the front-end.
+
+Requirements:
+- MongoDb cluster
+- React-redux thunk
+- node.js
+- express.js
+- material-ui/core
+- material-ui/icons
+- react-file-base64 
+-  Background : [SVGBackgrounds]( https://www.svgbackgrounds.com/)
